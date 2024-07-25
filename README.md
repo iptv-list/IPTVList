@@ -16,4 +16,5 @@ If you want to view Channels what are on the Playlist Click here
 https://github.com/iptv-list/IPTV/blob/main/iptv-playlist.m3u
 
 # Why is there channels down?
-We get these channels from public sources, If a stream is down post an issue 
+We get these channels from public sources, If a stream is down post an issue below 
+https://github.com/iptv-list/IPTV/issues
