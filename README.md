@@ -3,14 +3,17 @@ An IPTV Service for the UK
 
 Welcome 
 
-First of thank you so much for choosing this iptv Service
+First of thank you so much for choosing this IPTV Service
+Below are links and Important Information about this playlist. Please enjoy and let me know what you think about this playlist
 
 # How to use 
 
-To add our iptv to your player add this link to your playlists tab (This may differ to what player you use) 
+To add our IPTV Service to your player Point this link to your playlists tab (This may differ to what player you use) 
 
 Link 🔗 
 https://raw.githubusercontent.com/iptv-list/IPTV/main/iptv-playlist.m3u
+
+Alternatively, You can download the M3U list from the files tab (This step is tricky and best for experienced people) If you dont know how to do it just stick to the first option
 
 # What Channels are there?
 If you want to view Channels what are on the Playlist Click here
