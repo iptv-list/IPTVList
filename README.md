@@ -23,15 +23,25 @@ https://github.com/iptv-list/IPTV/issues
 # What do you expect
 
 All channels should work well. If not please report 
-As much as possible channels should be in HD, not SD.
+
+Our Channels list follows The Sky TV Guide. Visit Below
+https://sky.com/tv-guide 
+
+
 Only one URL per channel (no +1, no alternate feeds, no regional declinations)
 Only TV channels
 
 Our Playlist Contains Paid-Subscription Channels eg. Sky, 
 
-This is a playlist for everybody.
+BBC Channels including Radio will Not work with any other IP except for a UK Residential IP,
+
+If a channel doesnt work its likely Geo Blocked and only allows UK Residents
 
 No adult channels
 No channels dedicated to any particular religion
 No channels dedicated to any particular political party
 No channels made for a country and funded by a different country
+
+# What about the IPTV Ban?
+
+IPTV Is allowed but is automatically blocked by your ISP (Internet Service Protocol) When a big event is on. These should go back to normal as usual 
