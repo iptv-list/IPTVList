@@ -6,10 +6,10 @@ Welcome
 First of thank you so much for choosing this iptv Service 
 
 
-Download Method  🔗 
+Download Link 🔗 
 To add our iptv to your player add this link to your playlists tab (This may differ to what player you use)
 
-https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/iptv-list/IPTV-/blob/main/iptv-playlist.m3u
+https://raw.githubusercontent.com/iptv-list/IPTV/main/iptv-playlist.m3u
 
 # What Channels are there?
 If you want to view Channels what are on the Playlist Click here 
