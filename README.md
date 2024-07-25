@@ -4,9 +4,12 @@ An IPTV Service for the UK
 Welcome 
 
 First of thank you so much for choosing this iptv Service
-Download Link 🔗 
-To add our iptv to your player add this link to your playlists tab (This may differ to what player you use)
 
+# How to use 
+
+To add our iptv to your player add this link to your playlists tab (This may differ to what player you use) 
+
+Link 🔗 
 https://raw.githubusercontent.com/iptv-list/IPTV/main/iptv-playlist.m3u
 
 # What Channels are there?
