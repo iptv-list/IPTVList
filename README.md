@@ -11,13 +11,13 @@ Below are links and Important Information about this playlist. Please enjoy and 
 To add our IPTV Service to your player Point this link to your playlists tab (This may differ to what player you use) 
 
 Link 🔗 
-https://raw.githubusercontent.com/iptv-list/IPTVList/main/iptv-playlist.m3u
+https://raw.githubusercontent.com/iptv-list/IPTVList/refs/heads/main/iptv-playlist.m3u
 
 Alternatively, You can download the M3U list from the files tab (This step is tricky and best for experienced people) If you dont know how to do it just stick to the first option
 
 # What Channels are there?
 If you want to view Channels what are on the Playlist Click here
-https://github.com/iptv-list/IPTV/blob/main/iptv-playlist.m3
+https://raw.githubusercontent.com/iptv-list/IPTVList/refs/heads/main/iptv-playlist.m3u
 
 # Why is there channels down?
 We get these channels from public sources, If a stream is down post an issue below 
