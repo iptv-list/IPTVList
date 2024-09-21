@@ -1,0 +1,267 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/d5k2nv4d4ds3g1wgn984"
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3000.png" group-title="TV Shows",BBC One HD
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2075.png" group-title="TV Shows",BBC Two HD
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="ITV1(West).uk" tvg-name="ITV1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/ITV1_HD_logo_2022.svg" group-title="TV Shows",ITV1 HD
+http://agramat.ro:8080/cuzuban_ionut/U3reV7nqj0/56511#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 HD" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2023-05/Channel-4-HD-logo.png?itok=30BduAK_" group-title="TV Shows",Channel 4 HD
+http://tv14s.xyz:8080/753468/894568/99138#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1800.png" group-title="TV Shows",Channel 5 HD
+http://cord-cutter.net:8080/X5xRz0/944877/53653#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="Showcase(src01).uk" tvg-name="Sky Showcase HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1275.png" group-title="TV Shows",Sky Showcase HD
+http://abcnew.site:8880/D12m2668/24493676/28932#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="Sky Witness HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4066.png" group-title="TV Shows",Sky Witness HD
+http://yesimes.oknirvana.club:8880/D12m2555/52433416/2920#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="Sky Atlantic HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4053.png" group-title="TV Shows",Sky Atlantic HD
+http://abcnew.site:8880/D12m2185/99818221/28902#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="Alibi HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3825.png" group-title="TV Shows",Alibi HD
+http://cord-cutter.net:8080/X5xRz0/944877/59030#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="Gold HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb6513.png" group-title="TV Shows",Gold HD
+http://premiumiptvmk.com:8080/F19236/516c41c7/297105#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="UandDave.uk" tvg-name="U&Dave HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3809.png" group-title="TV Shows",U&Dave HD
+http://fortv.cc:8080/jamie@bernard/902@379/53659#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="ComedyCentral(src01).uk" tvg-name="Comedy Central" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4056.png" group-title="TV Shows",Comedy Central
+http://agramat.ro:8080/cuzuban_ionut/U3reV7nqj0/56559#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkyMax.uk" tvg-name="Sky Max HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4061.png" group-title="TV Shows",Sky Max HD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/2894#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="Sky Comedy HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1143.png" group-title="TV Shows",Sky Comedy HD
+http://yesimes.oknirvana.club:8880/D12m2555/52433416/2890#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="BBCThree.uk" tvg-name="BBC Three HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2080.png" group-title="TV Shows",BBC Three HD
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2086.png" group-title="TV Shows",BBC Four HD
+https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV2 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb6240.png" group-title="TV Shows",ITV2 HD
+http://abcnew.site:8880/D12m2185/99818221/2905#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV3 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb6533.png" group-title="TV Shows",ITV3 HD
+http://abcnew.site:8880/D12m2185/99818221/2904#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/ITV4_HD_logo_2022.svg" group-title="TV Shows",ITV4 HD
+http://agramat.ro:8080/cuzuban_ionut/U3reV7nqj0/56514#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkyDocumentaries.uk" tvg-name="Sky Documentaries HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1136.png" group-title="TV Shows",Sky Documentaries HD
+http://abcnew.site:8880/D12m2185/99818221/28769#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkyCrime.uk" tvg-name="Sky Crime HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1212.png" group-title="TV Shows",Sky Crime HD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1454#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkyHistory.uk" tvg-name="Sky History HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4086.png" group-title="TV Shows",Sky History HD
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/187342#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkyNature.uk" tvg-name="Sky Nature HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1165.png" group-title="TV Shows",Sky Nature HD
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/28770#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="Discovery(src01).uk" tvg-name="Discovery HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4003.png" group-title="TV Shows",Discovery HD
+http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/53684#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="MTV.uk" tvg-name="MTV HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3831.png" group-title="TV Shows",MTV HD
+http://tv14s.xyz:8080/753468/894568/53737#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="ComedyCentralExtra(src01).uk" tvg-name="Comedy Central Extra" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1813.png" group-title="TV Shows",Comedy Central Extra
+http://abcnew.site:8880/D12m2185/99818221/28791#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="5Star.uk" tvg-name="5 Star HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3023.png" group-title="TV Shows",5 Star HD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1345#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="NationalGeographic.uk" tvg-name="National Geographic HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4031.png" group-title="TV Shows",National Geographic HD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/3028#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="Sky Arts HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4063.png" group-title="TV Shows",Sky Arts HD
+http://abcnew.site:8880/D12m2668/24493676/2887#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="ITVBE.uk" tvg-name="ITVBe HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3026.png" group-title="TV Shows",ITVBe HD
+http://premiumiptvmk.com:8080/F19236/516c41c7/1560#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="TLC.uk" tvg-name="TLC HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3812.png" group-title="TV Shows",TLC HD
+http://abcnew.site:8880/D12m2185/99818221/2873#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="S4C HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb5701.png" group-title="TV Shows",S4C HD
+https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="E4 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4076.png" group-title="TV Shows",E4 HD
+http://agramat.ro:8080/cuzuban_ionut/U3reV7nqj0/56572#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="More4 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4043.png" group-title="TV Shows",More4 HD
+http://tv14s.xyz:8080/753468/894568/53673#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="4Seven.uk" tvg-name="4Seven HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3150.png" group-title="TV Shows",4Seven HD
+http://abcnew.site:8880/D12m2185/99818221/2955#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkySciFi.uk" tvg-name="Sky SciFi HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4074.png" group-title="TV Shows",Sky SciFi HD
+http://tv14s.xyz:8080/753468/894568/53663#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3590.png" group-title="TV Shows",Food Network
+http://agramat.ro:8080/cuzuban_ionut/U3reV7nqj0/56580#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="5USA.uk" tvg-name="5 USA" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3022.png" group-title="TV Shows",5 USA
+http://abcnew.site:8880/D12m2185/99818221/2953#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="Really(src01).uk" tvg-name="Really" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2325.png" group-title="TV Shows",Really
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/28858#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="UandDrama.uk" tvg-name="U&Drama" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2612.png" group-title="TV Shows",U&Drama
+http://abcnew.site:8880/D12m2668/24493676/28899#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="Quest.uk" tvg-name="Quest" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb6761.png" group-title="TV Shows",Quest
+http://abcnew.site:8880/D12m2185/99818221/28841#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="Challenge.uk" tvg-name="Challenge" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2202.png" group-title="TV Shows",Challenge
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/3021#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="QuestRed.uk" tvg-name="Quest Red" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2411.png" group-title="TV Shows",Quest Red
+http://premiumiptvmk.com:8080/F19236/516c41c7/201131#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkyMix.uk" tvg-name="Sky Mix HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1831.png" group-title="TV Shows",Sky Mix HD
+http://abcnew.site:8880/D12m2185/99818221/28857#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkyReplay.uk" tvg-name="Sky Replay HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1833.png" group-title="TV Shows",Sky Replay HD
+http://abcnew.site:8880/D12m2185/99818221/2888#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="5SELECT.uk" tvg-name="5 Select" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3028.png" group-title="TV Shows",5 Select
+http://abcnew.site:8880/D12m2185/99818221/28837#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="InvestigationDiscovery.uk" tvg-name="Investigation Discovery" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2413.png" group-title="TV Shows",Investigation Discovery
+http://193.151.107.120:8000/play/99/index.m3u8#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="UandYesterday.uk" tvg-name="U&Yesterday" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1139.png" group-title="TV Shows",U&Yesterday
+http://abcnew.site:8880/D12m2668/24493676/28771#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="CrimeandInvestigation(src01).uk" tvg-name="Crime + Investigation" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4088.png" group-title="TV Shows",Crime + Investigation
+http://abcnew.site:8880/D12m2668/24493676/2927#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="DMAX.uk" tvg-name="DMAX HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3618.png" group-title="TV Shows",DMAX HD
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/28826#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2409.png" group-title="TV Shows",Discovery Turbo
+http://170.82.37.21:8000/play/a01d/index.m3u8#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="Animal Planet" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2402.png" group-title="TV Shows",Animal Planet
+http://abcnew.site:8880/D12m2668/24493676/2952#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkyHistory2.uk" tvg-name="Sky History 2 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1195.png" group-title="TV Shows",Sky History 2 HD
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/302705#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="BLAZE.uk" tvg-name="Blaze HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1065.png" group-title="TV Shows",Blaze HD
+http://abcnew.site:8880/D12m2185/99818221/2945#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="NatGeoWild(src01).uk" tvg-name="Nat Geo Wild HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4025.png" group-title="TV Shows",Nat Geo Wild HD
+http://69942438206725559.ofk0601.xyz:80/live/mi92865/dsEJKmESTBna/725559.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="Eden.uk" tvg-name="Eden HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2302.png" group-title="TV Shows",Eden HD
+http://abcnew.site:8880/D12m2185/99818221/28836#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="Discovery Science" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2406.png" group-title="TV Shows",Discovery Science
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/2924#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="BBCAlba.uk" tvg-name="BBC Alba HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3021.png" group-title="TV Shows",BBC Alba HD
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_alba/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="Together.uk" tvg-name="Together TV" tvg-logo="" group-title="TV Shows",Together TV
+http://premiumiptvmk.com:8080/F19236/516c41c7/157281#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-name="PBS America" tvg-logo="" group-title="TV Shows",PBS America
+http://abcnew.site:8880/D12m2668/24493676/28779#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="Discovery History" tvg-logo="" group-title="TV Shows",Discovery History
+http://premiumiptvmk.com:8080/F19236/516c41c7/694#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="CourtTV.uk" tvg-name="Court tv" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1207.png" group-title="TV Shows",Court tv
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="182Travelxp(src01).uk" tvg-name="Travelxp" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1226.png" group-title="TV Shows",Travelxp
+https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="NTD(src01).uk" tvg-name="NTD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3731.png" group-title="TV Shows",NTD
+https://ntd02.akamaized.net/NTD-UK/index.m3u8#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="UandDaveJaVu.uk" tvg-name="U&DaveJaVu" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2320.png" group-title="TV Shows",U&DaveJaVu
+http://premiumiptvmk.com:8080/F19236/516c41c7/17031#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="Sky Cinema Premiere HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4021.png" group-title="Movies",Sky Cinema Premiere HD
+http://abcnew.site:8880/D12m2668/24493676/28935#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="Sky Cinema Heists HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4020.png" group-title="Movies",Sky Cinema Heists HD
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/726#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkyCinemaSelect.uk" tvg-name="Sky Cinema 2024 Picks HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4033.png" group-title="Movies",Sky Cinema 2024 Picks HD
+http://abcnew.site:8880/D12m2668/24493676/28927#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="Sky Cinema Greats HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4015.png" group-title="Movies",Sky Cinema Greats HD
+http://abcnew.site:8880/D12m2668/24493676/28928#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-name="Sky Cinema Animation HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1199.png" group-title="Movies",Sky Cinema Animation HD
+http://abcnew.site:8880/D12m2668/24493676/28925#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="Sky Cinema Family HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4018.png" group-title="Movies",Sky Cinema Family HD
+http://abcnew.site:8880/D12m2668/24493676/28936#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-name="Sky Cinema Action HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4014.png" group-title="Movies",Sky Cinema Action HD
+http://fortv.cc:8080/5ybSS2/616430/35254#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="Sky Cinema Comedy HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4019.png" group-title="Movies",Sky Cinema Comedy HD
+http://tv14s.xyz:8080/753468/894568/53661#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="Sky Cinema Thriller HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4062.png" group-title="Movies",Sky Cinema Thriller HD
+http://abcnew.site:8880/D12m2185/99818221/28931#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="Sky Cinema Drama HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4016.png" group-title="Movies",Sky Cinema Drama HD
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1089#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkyCinemaSciFiandHorror.uk" tvg-name="Sky Cinema Scares HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4017.png" group-title="Movies",Sky Cinema Scares HD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/2972#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film4 HD" tvg-logo="" group-title="Movies",Film4 HD
+http://agramat.ro:8080/cuzuban_ionut/U3reV7nqj0/56577#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="MTVMusic.uk" tvg-name="MTV Music" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2512.png" group-title="Music",MTV Music
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1702#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="MTV Hits" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2506.png" group-title="Music",MTV Hits
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/302302#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="MTV90sUK.uk" tvg-name="MTV 90's" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2508.png" group-title="Music",MTV 90's
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/300952#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="MTV80sUK.uk" tvg-name="MTV 80's" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2509.png" group-title="Music",MTV 80's
+http://agramat.ro:8080/TtGAq7gL40YLRy7nPGXv9csqaomOP/wXY22fZ6WCsE0FzB6DBTXaR6obz5JH/56697#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="ClublandTV(src01).uk" tvg-name="Clubland TV" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4505.png" group-title="Music",Clubland TV
+http://abcnew.site:8880/D12m2185/99818221/28896#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="Now70s.uk" tvg-name="Now 70's" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3403.png" group-title="Music",Now 70's
+http://abcnew.site:8880/D12m2668/24493676/28830#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="Now80s.uk" tvg-name="Now 80's" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4541.png" group-title="Music",Now 80's
+http://abcnew.site:8880/D12m2668/24493676/28785#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="Now90s(src01).uk" tvg-name="Now 90's" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1103.png" group-title="Music",Now 90's
+http://abcnew.site:8880/D12m2668/24493676/28819#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="NowRock.uk" tvg-name="Now Rock" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3682.png" group-title="Music",Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4002.png" group-title="Sports",Sky Sports Main Event HD
+http://tv14s.xyz:8080/WzD7qQ/424962/35243#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premiere League HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4010.png" group-title="Sports",Sky Sports Premiere League HD
+http://abcnew.site:8880/D12m2668/24493676/2877#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3939.png" group-title="Sports",Sky Sports Football HD
+http://abcnew.site:8880/D12m2668/24493676/2870#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4081.png" group-title="Sports",Sky Sports Cricket HD
+http://abcnew.site:8880/D12m2185/99818221/2879#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4026.png" group-title="Sports",Sky Sports Golf HD
+http://abcnew.site:8880/D12m2185/99818221/2878#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3835.png" group-title="Sports",Sky Sports F1 HD
+http://abcnew.site:8880/D12m2185/99818221/2876#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkySportsTennis.uk" tvg-name="Sky Sports Tennis HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1284.png" group-title="Sports",Sky Sports Tennis HD
+http://abcnew.site:8880/D12m2668/24493676/2902#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4022.png" group-title="Sports",Sky Sports Action HD
+http://abcnew.site:8880/D12m2668/24493676/2880#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4049.png" group-title="Sports",Sky Sports News HD
+http://abcnew.site:8880/D12m2668/24493676/2875#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT Sports 1 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3661.png" group-title="Sports",TNT Sports 1 HD
+http://abcnew.site:8880/D12m2668/24493676/28946#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="TNT Sports 2 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3663.png" group-title="Sports",TNT Sports 2 HD
+http://abcnew.site:8880/D12m2668/24493676/28945#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="Eurosport 1 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4004.png" group-title="Sports",Eurosport 1 HD
+http://abcnew.site:8880/D12m2668/24493676/2917#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="Eurosport 2 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4009.png" group-title="Sports",Eurosport 2 HD
+http://abcnew.site:8880/D12m2668/24493676/2916#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="Sky Sports Racing HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1354.png" group-title="Sports",Sky Sports Racing HD
+http://abcnew.site:8880/D12m2668/24493676/28741#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4090.png" group-title="Sports",Sky Sports Mix HD
+http://tv14s.xyz:8080/753468/894568/53706#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="TNT Sports 3 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb5032.png" group-title="Sports",TNT Sports 3 HD
+http://abcnew.site:8880/D12m2668/24493676/28943#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="MUTV(src01).uk" tvg-name="MUTV HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1003.png" group-title="Sports",MUTV HD
+http://abcnew.site:8880/D12m2668/24493676/2895#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="PREMIERE SPORTS 1 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1289.png" group-title="Sports",PREMIERE SPORTS 1 HD
+http://abcnew.site:8880/D12m2185/99818221/28862#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="PREMIERE SPORT 2 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1290.png" group-title="Sports",PREMIERE SPORT 2 HD
+http://abcnew.site:8880/D12m2185/99818221/28861#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="TNT Sports 4 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3141.png" group-title="Sports",TNT Sports 4 HD
+http://abcnew.site:8880/D12m2668/24493676/28942#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="LFCTV.uk" tvg-name="LFCTV HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3845.png" group-title="Sports",LFCTV HD
+http://agramat.ro:8080/TtGAq7gL40YLRy7nPGXv9csqaomOP/wXY22fZ6WCsE0FzB6DBTXaR6obz5JH/56639#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="RacingTV.uk" tvg-name="Racing TV" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3636.png" group-title="Sports",Racing TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/731#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4050.png" group-title="News",Sky News HD
+http://abcnew.site:8880/D12m2185/99818221/2886#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="Bloomberg(UK).uk" tvg-name="Bloomberg TV HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1074.png" group-title="News",Bloomberg TV HD
+http://abcnew.site:8880/D12m2185/99818221/28754#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2085.png" group-title="News",BBC News HD
+http://cord-cutter.net:8080/k4Svp2/645504/53757#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="BBC Parliament HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3020.png" group-title="News",BBC Parliament HD
+http://abcnew.site:8880/D12m2668/24493676/28864#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="CNBC.uk" tvg-name="CNBC News" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1088.png" group-title="News",CNBC News
+http://agramat.ro:8080/TtGAq7gL40YLRy7nPGXv9csqaomOP/wXY22fZ6WCsE0FzB6DBTXaR6obz5JH/56685#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="CNNInternational.uk" tvg-name="CNN HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1019.png" group-title="News",CNN HD
+http://abcnew.site:8880/D12m2668/24493676/2939#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="euronews.uk" tvg-name="Euro News" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4604.png" group-title="News",Euro News
+http://abcnew.site:8880/D12m2668/24493676/65978#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="NDTV24x7.uk" tvg-name="NDTV 24X7" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1821.png" group-title="News",NDTV 24X7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="France24(French).uk" tvg-name="France24" tvg-logo="" group-title="News",France24
+http://abcnew.site:8880/D12m2692/94245219/1980#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="AlJazeera.uk" tvg-name="Aljazeera HD" tvg-logo="" group-title="News",Aljazeera HD
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="Cartoon Network HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4077.png" group-title="Kids",Cartoon Network HD
+http://tv14s.xyz:8080/WzD7qQ/424962/53719#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="CartoonNetworkplus1.uk" tvg-name="Cartoon Network +1 HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb5610.png" group-title="Kids",Cartoon Network +1 HD
+http://fortv.cc:8080/5ybSS2/616430/53719#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="Boomerang.uk" tvg-name="Boomerang HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4030.png" group-title="Kids",Boomerang HD
+http://fortv.cc:8080/5ybSS2/616430/53718#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="Nickelodeon HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4069.png" group-title="Kids",Nickelodeon HD
+http://tv14s.xyz:8080/753468/894568/53728#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="NickSpongeBob HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1849.png" group-title="Kids",NickSpongeBob HD
+http://abcnew.site:8880/D12m2185/99818221/28891#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="NickJr.uk" tvg-name="Nick Jr. HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4039.png" group-title="Kids",Nick Jr. HD
+http://abcnew.site:8880/D12m2185/99818221/28890#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="CBBC HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2078.png" group-title="Kids",CBBC HD
+http://cord-cutter.net:8080/k4Svp2/645504/53720#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="Cbeebies HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2088.png" group-title="Kids",Cbeebies HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="SkyKids.uk" tvg-name="Sky Kids HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1147.png" group-title="Kids",Sky Kids HD
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/302301#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="Cartoonito.uk" tvg-name="Cartoonito HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1371.png" group-title="Kids",Cartoonito HD
+http://abcnew.site:8880/D12m2185/99818221/2937#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="Nick Jr Paw Patrol HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4340.png" group-title="Kids",Nick Jr Paw Patrol HD
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/4759#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="Pop.uk" tvg-name="POP HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3750.png" group-title="Kids",POP HD
+http://abcnew.site:8880/D12m2185/99818221/28882#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="PopMax.uk" tvg-name="POP MAX HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4262.png" group-title="Kids",POP MAX HD
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1598#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="TinyPop.uk" tvg-name="Tiny Pop HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5c/Tiny_Pop_logo_2018.svg" group-title="Kids",Tiny Pop HD
+http://agramat.ro:8080/TtGAq7gL40YLRy7nPGXv9csqaomOP/wXY22fZ6WCsE0FzB6DBTXaR6obz5JH/56676#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby tv HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3645.png" group-title="Kids",Baby tv HD
+http://abcnew.site:8880/D12m2185/99818221/2951#checkedby:iptvlister.com
