@@ -16,9 +16,13 @@ http://example.com/playlists/drama.m3u
 http://example.com/playlists/comedy.m3u
 #EXTINF:0 tvg-logo="http://example.com/logos/serials.png", TV Series
 http://example.com/playlists/serials.m3u
+#EXTINF:0 tvg-logo="http://example.com/logos/serials.png", Movie Series
+http://example.com/playlists/serials.m3u
 #EXTINF:0 tvg-logo="http://example.com/logos/trillers.png", Triller
 http://example.com/playlists/trillers.m3u
 #EXTINF:0 tvg-logo="http://example.com/logos/horror.png", Horror
 http://example.com/playlists/horror.m3u
 #EXTINF:0 tvg-logo="http://example.com/logos/fantastic.png", Fiction
 http://example.com/playlists/fantastic.m3u
+
+https://store10.gofile.io/download/web/ae3626af-6681-4170-a9c1-d8d351b75d10/Inside.Out.2.2024.1080p.TELESYNC.x264.COLLECTiVE.mp4
