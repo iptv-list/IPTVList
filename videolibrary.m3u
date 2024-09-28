@@ -17,7 +17,7 @@ http://example.com/playlists/comedy.m3u
 #EXTINF:0 tvg-logo="http://example.com/logos/serials.png", TV Series
 http://example.com/playlists/serials.m3u
 #EXTINF:0 tvg-logo="http://example.com/logos/serials.png", Movie Series
-http://example.com/playlists/serials.m3u
+https://raw.githubusercontent.com/iptv-list/IPTVList/refs/heads/main/movies.m3u
 #EXTINF:0 tvg-logo="http://example.com/logos/trillers.png", Triller
 http://example.com/playlists/trillers.m3u
 #EXTINF:0 tvg-logo="http://example.com/logos/horror.png", Horror
