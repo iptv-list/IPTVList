@@ -5,3 +5,6 @@ http://example.com/playlists/serials.m3u
 #EXTINF:0 tvg-logo="http://example.com/logos/serials.png", Movie Series
 #EXTSIZE: Medium
 https://raw.githubusercontent.com/iptv-list/IPTVList/refs/heads/main/movies.m3u
+#EXTINF:0 tvg-logo="http://example.com/logos/serials.png", 24/7 Channels
+#EXTSIZE: Medium
+https://raw.githubusercontent.com/iptv-list/IPTVList/refs/heads/main/movies.m3u
