@@ -5,8 +5,6 @@ http://example.com/playlists/docs.m3u
 http://example.com/playlists/drama.m3u
 #EXTINF:0 type="playlist", Comedy
 http://example.com/playlists/comedy.m3u
-#EXTINF:0 type="playlist", TV Series
-http://example.com/playlists/serials.m3u
 #EXTINF:0 type="playlist", Triller
 http://example.com/playlists/trillers.m3u
 #EXTINF:0 type="playlist", Horror
