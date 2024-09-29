@@ -14,7 +14,7 @@ http://example.com/playlists/horror.m3u
 #EXTINF:0 type="playlist", Fiction
 http://example.com/playlists/fantastic.m3u
 #EXTINF:0 type="playlist", Family / Kids
-http://example.com/playlists/fantastic.m3u
+https://raw.githubusercontent.com/iptv-list/IPTVList/refs/heads/main/familymovies.m3u
 
 
 
