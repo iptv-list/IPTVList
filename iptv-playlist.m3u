@@ -1,407 +1,109 @@
-EXTM3U
-#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3000.png" tvg-epgid="BBC1.uk" group-title="TV Shows",BBC One HD
-#EXTGRP:TV Shows
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3000.png" group-title="TV Shows",BBC One Yks HD
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2075.png" group-title="TV Shows",BBC Two HD
-#EXTGRP:TV Shows
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2075.png" group-title="TV Shows",BBC Two HD
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/ITV1_HD_logo_2022.svg" group-title="TV Shows",ITV1 HD
-#EXTGRP:TV Shows
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/ITV1_HD_logo_2022.svg" group-title="TV Shows",ITV1 HD
 http://fortv.cc:8080/5ybSS2/616430/53651
 #EXTINF:-1 tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2023-05/Channel-4-HD-logo.png?itok=30BduAK_" group-title="TV Shows",Channel 4 HD
-#EXTGRP:TV Shows
 http://tv14s.xyz:8080/753468/894568/99138#checkedby:iptvlister.com
-#EXTINF:-1 tvg-id="Channel5.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1800.png" group-title="TV Shows",Channel 5 HD
-#EXTGRP:TV Shows
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1800.png" group-title="TV Shows",Channel 5 HD
 http://cord-cutter.net:8080/X5xRz0/944877/53653#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1275.png" group-title="TV Shows",Sly Showcase HD
-#EXTGRP:TV Shows
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1275.png" group-title="TV Shows",SkyShowcaseHD
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/17041
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4066.png" group-title="TV Shows",Sly Witness HD
-#EXTGRP:TV Shows
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4066.png" group-title="TV Shows",Sky Witness HD
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/11738
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4053.png" group-title="TV Shows",Sly Atlantic HD
-#EXTGRP:TV Shows
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4053.png" group-title="TV Shows",Sky Atlantic HD
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1093
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3825.png" group-title="TV Shows",Alibi HD
-#EXTGRP:TV Shows
-http://cord-cutter.net:8080/X5xRz0/944877/59030#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb6513.png" group-title="TV Shows",Gold HD
-#EXTGRP:TV Shows
-http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1356
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3809.png" group-title="TV Shows",U&Dave HD
-#EXTGRP:TV Shows
-http://tv14s.xyz:8080/753468/894568/53659
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4056.png" group-title="TV Shows",Comedy Central
-#EXTGRP:TV Shows
-http://tv14s.xyz:8080/753468/894568/53660
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4061.png" group-title="TV Shows",Sly Max HD
-#EXTGRP:TV Shows
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1080
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1143.png" group-title="TV Shows",Sly Comedy HD
-#EXTGRP:TV Shows
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4061.png" group-title="TV Shows",Sky Max HD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/2894
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1212.png" group-title="TV Shows",Sky Crime HD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1454
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1136.png" group-title="TV Shows",SkyDocmntrsHD
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/187346
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1143.png" group-title="TV Shows",Sky Comedy HD
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1091
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1165.png" group-title="TV Shows",Sky Nature HD
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/286909
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4063.png" group-title="TV Shows",Sky Arts HD
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1094
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4086.png" group-title="TV Shows",Sky History HD
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/187342#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4074.png" group-title="TV Shows",Sky Sci-Fi HD
+http://cord-cutter.net:8080/X5xRz0/944877/53663#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2080.png" group-title="TV Shows",BBC Three HD
-#EXTGRP:TV Shows
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2086.png" group-title="TV Shows",BBC Four HD
-#EXTGRP:TV Shows
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb6240.png" group-title="TV Shows",ITV2 HD
-#EXTGRP:TV Shows
 http://cord-cutter.net:8080/k4Svp2/645504/53671
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb6533.png" group-title="TV Shows",ITV3 HD
-#EXTGRP:TV Shows
-http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/2993
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1328
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/ITV4_HD_logo_2022.svg" group-title="TV Shows",ITV4 HD
-#EXTGRP:TV Shows
-http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/2995
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1136.png" group-title="TV Shows",Sly Documentaries HD
-#EXTGRP:TV Shows
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/187346
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1212.png" group-title="TV Shows",Sly Crime HD
-#EXTGRP:TV Shows
-http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1454
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4086.png" group-title="TV Shows",Sly History HD
-#EXTGRP:TV Shows
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/187342#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1165.png" group-title="TV Shows",Sly Nature HD
-#EXTGRP:TV Shows
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/286909
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4003.png" group-title="TV Shows",Discovery HD
-#EXTGRP:TV Shows
-http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/3025
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3831.png" group-title="TV Shows",MTV HD
-#EXTGRP:TV Shows
-http://tv14s.xyz:8080/753468/894568/53737#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1813.png" group-title="TV Shows",Comedy Central Extra
-#EXTGRP:TV Shows
-http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/2987
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3023.png" group-title="TV Shows",5 Star HD
-#EXTGRP:TV Shows
-http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1345#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4031.png" group-title="TV Shows",Nat Geo HD
-#EXTGRP:TV Shows
-http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/3028#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4063.png" group-title="TV Shows",Sly Arts HD
-#EXTGRP:TV Shows
-http://abcnew.site:8880/D12m2668/24493676/2887#checkedby:iptvlister.com
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1329
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3026.png" group-title="TV Shows",ITVBe HD
-#EXTGRP:TV Shows
-http://premiumiptvmk.com:8080/F19236/516c41c7/1560#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3812.png" group-title="TV Shows",TLC HD
-#EXTGRP:TV Shows
-http://abcnew.site:8880/D12m2185/99818221/2873#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb5701.png" group-title="TV Shows",S4C HD
-#EXTGRP:TV Shows
-https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8#checkedby:iptvlister.com
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1330
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4076.png" group-title="TV Shows",E4 HD
-#EXTGRP:TV Shows
-http://agramat.ro:8080/cuzuban_ionut/U3reV7nqj0/56572#checkedby:iptvlister.com
+http://cord-cutter.net:8080/k4Svp2/645504/53672
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4043.png" group-title="TV Shows",More4 HD
-#EXTGRP:TV Shows
-http://tv14s.xyz:8080/753468/894568/53673#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3150.png" group-title="TV Shows",4Seven HD
-#EXTGRP:TV Shows
-http://abcnew.site:8880/D12m2185/99818221/2955#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4074.png" group-title="TV Shows",Sly SciFi HD
-#EXTGRP:TV Shows
-http://tv14s.xyz:8080/753468/894568/53663#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3590.png" group-title="TV Shows",Food Network
-#EXTGRP:TV Shows
-http://agramat.ro:8080/cuzuban_ionut/U3reV7nqj0/56580#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3022.png" group-title="TV Shows",5 USA
-#EXTGRP:TV Shows
-http://abcnew.site:8880/D12m2185/99818221/2953#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2325.png" group-title="TV Shows",Really
-#EXTGRP:TV Shows
-http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/28858#checkedby:iptvlister.com
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/280284
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3023.png" group-title="TV Shows",5STAR HD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1345
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3022.png" group-title="TV Shows",5USA HD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1346
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3825.png" group-title="TV Shows",alibi HD
+http://cord-cutter.net:8080/X5xRz0/944877/59030#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb6513.png" group-title="TV Shows",GOLD HD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1356
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3809.png" group-title="TV Shows",U&Dave HD
+http://cord-cutter.net:8080/X5xRz0/944877/53659
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2612.png" group-title="TV Shows",U&Drama
-#EXTGRP:TV Shows
-http://abcnew.site:8880/D12m2668/24493676/28899#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb6761.png" group-title="TV Shows",Quest
-#EXTGRP:TV Shows
-http://abcnew.site:8880/D12m2185/99818221/28841#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2202.png" group-title="TV Shows",Challenge
-#EXTGRP:TV Shows
-http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/3021#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2411.png" group-title="TV Shows",Quest Red
-#EXTGRP:TV Shows
-http://premiumiptvmk.com:8080/F19236/516c41c7/201131#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1831.png" group-title="TV Shows",Sly Mix HD
-#EXTGRP:TV Shows
-http://abcnew.site:8880/D12m2185/99818221/28857#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1833.png" group-title="TV Shows",Sly Replay HD
-#EXTGRP:TV Shows
-http://abcnew.site:8880/D12m2185/99818221/2888#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3028.png" group-title="TV Shows",5 Select
-#EXTGRP:TV Shows
-http://abcnew.site:8880/D12m2185/99818221/28837#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2413.png" group-title="TV Shows",ID
-#EXTGRP:TV Shows
-http://193.151.107.120:8000/play/99/index.m3u8#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1139.png" group-title="TV Shows",U&Yesterday
-#EXTGRP:TV Shows
-http://abcnew.site:8880/D12m2668/24493676/28771#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4088.png" group-title="TV Shows",Crime + Investigation
-#EXTGRP:TV Shows
-http://abcnew.site:8880/D12m2668/24493676/2927#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4266.png" group-title="TV Shows",Great tv
-#EXTGRP:TV Shows
-Teting.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3618.png" group-title="TV Shows",DMAX HD
-#EXTGRP:TV Shows
-http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/28826#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2409.png" group-title="TV Shows",Turbo
-#EXTGRP:TV Shows
-http://170.82.37.21:8000/play/a01d/index.m3u8#checkedby:iptvlister.com
+http://cord-cutter.net:8080/X5xRz0/944877/53677
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4056.png" group-title="TV Shows",ComedyCentHD
+http://cord-cutter.net:8080/k4Svp2/645504/53660
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1813.png" group-title="TV Shows",ComedyXtra
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/2987
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3831.png" group-title="TV Shows",MTV HD
+http://tv14s.xyz:8080/753468/894568/53737#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4003.png" group-title="TV Shows",Discovery HD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1382
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3812.png" group-title="TV Shows",TLC HD
+http://cord-cutter.net:8080/X5xRz0/944877/53681
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2402.png" group-title="TV Shows",Animal Planet
-#EXTGRP:TV Shows
-http://abcnew.site:8880/D12m2668/24493676/2952#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1195.png" group-title="TV Shows",Sly History 2 HD
-#EXTGRP:TV Shows
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1377
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2413.png" group-title="TV Shows",ID
+http://cord-cutter.net:8080/X5xRz0/944877/53687
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4088.png" group-title="TV Shows",Crime+inv HD
+http://tv14s.xyz:8080/753468/894568/53689
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1195.png" group-title="TV Shows",SkyHistory2HD
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/302705#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1065.png" group-title="TV Shows",Blaze HD
-#EXTGRP:TV Shows
-http://abcnew.site:8880/D12m2185/99818221/2945#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4025.png" group-title="TV Shows",Nat Geo Wild HD
-#EXTGRP:TV Shows
-http://69942438206725559.ofk0601.xyz:80/live/mi92865/dsEJKmESTBna/725559.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2302.png" group-title="TV Shows",Eden HD
-#EXTGRP:TV Shows
-http://abcnew.site:8880/D12m2185/99818221/28836#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2406.png" group-title="TV Shows",Discovery Science
-#EXTGRP:TV Shows
-http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/2924#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3021.png" group-title="TV Shows",BBC Alba HD
-#EXTGRP:TV Shows
-http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_alba/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 group-title="TV Shows",Together TV
-#EXTGRP:TV Shows
-http://premiumiptvmk.com:8080/F19236/516c41c7/157281#checkedby:iptvlister.com
-#EXTINF:-1 group-title="TV Shows",PBS America
-#EXTGRP:TV Shows
-http://abcnew.site:8880/D12m2668/24493676/28779#checkedby:iptvlister.com
-#EXTINF:-1 group-title="TV Shows",Discovery History
-#EXTGRP:TV Shows
-http://premiumiptvmk.com:8080/F19236/516c41c7/694#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1207.png" group-title="TV Shows",Court tv
-#EXTGRP:TV Shows
-https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1226.png" group-title="TV Shows",Travelxp
-#EXTGRP:TV Shows
-https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3731.png" group-title="TV Shows",NTD
-#EXTGRP:TV Shows
-https://ntd02.akamaized.net/NTD-UK/index.m3u8#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2320.png" group-title="TV Shows",U&DaveJaVu
-#EXTGRP:TV Shows
-http://premiumiptvmk.com:8080/F19236/516c41c7/17031#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4021.png" group-title="Movies",Sly Cinema Premiere HD
-#EXTGRP:Movies
-http://abcnew.site:8880/D12m2668/24493676/28935#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4020.png" group-title="Movies",Sly Cinema Heists HD
-#EXTGRP:Movies
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/726#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4033.png" group-title="Movies",Sly Cinema 2024 Picks HD
-#EXTGRP:Movies
-http://abcnew.site:8880/D12m2668/24493676/28927#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4015.png" group-title="Movies",Sly Cinema Greats HD
-#EXTGRP:Movies
-http://abcnew.site:8880/D12m2668/24493676/28928#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1199.png" group-title="Movies",Sly Cinema Animation HD
-#EXTGRP:Movies
-http://abcnew.site:8880/D12m2668/24493676/28925#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4018.png" group-title="Movies",Sly Cinema Family HD
-#EXTGRP:Movies
-http://abcnew.site:8880/D12m2668/24493676/28936#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4014.png" group-title="Movies",Sly Cinema Action HD
-#EXTGRP:Movies
-http://fortv.cc:8080/5ybSS2/616430/35254#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4019.png" group-title="Movies",Sly Cinema Comedy HD
-#EXTGRP:Movies
-http://tv14s.xyz:8080/753468/894568/53661#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4062.png" group-title="Movies",Sly Cinema Thriller HD
-#EXTGRP:Movies
-http://abcnew.site:8880/D12m2185/99818221/28931#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4016.png" group-title="Movies",Sly Cinema Drama HD
-#EXTGRP:Movies
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1089#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4017.png" group-title="Movies",Sly Cinema Scares HD
-#EXTGRP:Movies
-http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/2972#checkedby:iptvlister.com
-#EXTINF:-1 group-title="Movies",Film4 HD
-#EXTGRP:Movies
-http://agramat.ro:8080/cuzuban_ionut/U3reV7nqj0/56577#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2512.png" group-title="Music",MTV Music
-#EXTGRP:Music
-http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1702#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2506.png" group-title="Music",MTV Hits
-#EXTGRP:Music
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/302302#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2508.png" group-title="Music",MTV 90's
-#EXTGRP:Music
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/300952#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2509.png" group-title="Music",MTV 80's
-#EXTGRP:Music
-http://agramat.ro:8080/TtGAq7gL40YLRy7nPGXv9csqaomOP/wXY22fZ6WCsE0FzB6DBTXaR6obz5JH/56697#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4505.png" group-title="Music",Clubland TV
-#EXTGRP:Music
-http://abcnew.site:8880/D12m2185/99818221/28896#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3403.png" group-title="Music",Now 70's
-#EXTGRP:Music
-http://abcnew.site:8880/D12m2668/24493676/28830#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4541.png" group-title="Music",Now 80's
-#EXTGRP:Music
-http://abcnew.site:8880/D12m2668/24493676/28785#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1103.png" group-title="Music",Now 90's
-#EXTGRP:Music
-http://abcnew.site:8880/D12m2668/24493676/28819#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3682.png" group-title="Music",Now Rock
-#EXTGRP:Music
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4002.png" group-title="Sports",Sly Sports Main Event HD
-#EXTGRP:Sports
-http://tv14s.xyz:8080/WzD7qQ/424962/35243#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4010.png" group-title="Sports",Sly Sports Premiere League HD
-#EXTGRP:Sports
-http://abcnew.site:8880/D12m2668/24493676/2877#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3939.png" group-title="Sports",Sly Sports Football HD
-#EXTGRP:Sports
-http://abcnew.site:8880/D12m2668/24493676/2870#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4081.png" group-title="Sports",Sly Sports Cricket HD
-#EXTGRP:Sports
-http://abcnew.site:8880/D12m2185/99818221/2879#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4026.png" group-title="Sports",Sly Sports Golf HD
-#EXTGRP:Sports
-http://abcnew.site:8880/D12m2185/99818221/2878#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3835.png" group-title="Sports",Sly Sports F1 HD
-#EXTGRP:Sports
-http://abcnew.site:8880/D12m2185/99818221/2876#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1284.png" group-title="Sports",Sly Sports Tennis HD
-#EXTGRP:Sports
-http://abcnew.site:8880/D12m2668/24493676/2902#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4022.png" group-title="Sports",Sly Sports Action HD
-#EXTGRP:Sports
-http://abcnew.site:8880/D12m2668/24493676/2880#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4049.png" group-title="Sports",Sly Sports News HD
-#EXTGRP:Sports
-http://abcnew.site:8880/D12m2668/24493676/2875#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3661.png" group-title="Sports",TNT Sports 1 HD
-#EXTGRP:Sports
-http://abcnew.site:8880/D12m2668/24493676/28946#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3663.png" group-title="Sports",TNT Sports 2 HD
-#EXTGRP:Sports
-http://abcnew.site:8880/D12m2668/24493676/28945#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3940.png" group-title="Sports",Sly Sports Arena HD
-#EXTGRP:Sports
-http://abcnew.site:8880/D12m2668/24493676/2902#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4004.png" group-title="Sports",Eurosport 1 HD
-#EXTGRP:Sports
-http://abcnew.site:8880/D12m2668/24493676/2917#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4009.png" group-title="Sports",Eurosport 2 HD
-#EXTGRP:Sports
-http://abcnew.site:8880/D12m2668/24493676/2916#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1354.png" group-title="Sports",Sly Sports Racing HD
-#EXTGRP:Sports
-http://abcnew.site:8880/D12m2668/24493676/28741#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4090.png" group-title="Sports",Sly Sports Mix HD
-#EXTGRP:Sports
-http://tv14s.xyz:8080/753468/894568/53706#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb5032.png" group-title="Sports",TNT Sports 3 HD
-#EXTGRP:Sports
-http://abcnew.site:8880/D12m2668/24493676/28943#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1003.png" group-title="Sports",MUTV HD
-#EXTGRP:Sports
-http://abcnew.site:8880/D12m2668/24493676/2895#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1289.png" group-title="Sports",PREMIERE SPORTS 1 HD
-#EXTGRP:Sports
-http://abcnew.site:8880/D12m2185/99818221/28862#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1290.png" group-title="Sports",PREMIERE SPORT 2 HD
-#EXTGRP:Sports
-http://abcnew.site:8880/D12m2185/99818221/28861#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3141.png" group-title="Sports",TNT Sports 4 HD
-#EXTGRP:Sports
-http://abcnew.site:8880/D12m2668/24493676/28942#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3845.png" group-title="Sports",LFCTV HD
-#EXTGRP:Sports
-http://agramat.ro:8080/TtGAq7gL40YLRy7nPGXv9csqaomOP/wXY22fZ6WCsE0FzB6DBTXaR6obz5JH/56639#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3636.png" group-title="Sports",Racing TV
-#EXTGRP:Sports
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/731#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4050.png" group-title="News",Sly News HD
-#EXTGRP:News
-http://abcnew.site:8880/D12m2185/99818221/2886#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1074.png" group-title="News",Bloomberg TV HD
-#EXTGRP:News
-http://abcnew.site:8880/D12m2185/99818221/28754#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2085.png" group-title="News",BBC News HD
-#EXTGRP:News
-http://cord-cutter.net:8080/k4Svp2/645504/53757#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3020.png" group-title="News",BBC Parliament HD
-#EXTGRP:News
-http://abcnew.site:8880/D12m2668/24493676/28864#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1088.png" group-title="News",CNBC News
-#EXTGRP:News
-http://agramat.ro:8080/TtGAq7gL40YLRy7nPGXv9csqaomOP/wXY22fZ6WCsE0FzB6DBTXaR6obz5JH/56685#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1019.png" group-title="News",CNN HD
-#EXTGRP:News
-http://abcnew.site:8880/D12m2668/24493676/2939#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4604.png" group-title="News",Euro News
-#EXTGRP:News
-http://abcnew.site:8880/D12m2668/24493676/65978#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1821.png" group-title="News",NDTV 24X7
-#EXTGRP:News
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8#checkedby:iptvlister.com
-#EXTINF:-1 group-title="News",France24
-#EXTGRP:News
-http://abcnew.site:8880/D12m2692/94245219/1980#checkedby:iptvlister.com
-#EXTINF:-1 group-title="News",Aljazeera HD
-#EXTGRP:News
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4077.png" group-title="Kids",Cartoon Network HD
-#EXTGRP:Kids
-http://tv14s.xyz:8080/WzD7qQ/424962/53719#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb5610.png" group-title="Kids",Cartoon Network +1 HD
-#EXTGRP:Kids
-http://fortv.cc:8080/5ybSS2/616430/53719#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4030.png" group-title="Kids",Boomerang HD
-#EXTGRP:Kids
-http://fortv.cc:8080/5ybSS2/616430/53718#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4069.png" group-title="Kids",Nickelodeon HD
-#EXTGRP:Kids
-http://tv14s.xyz:8080/753468/894568/53728#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1849.png" group-title="Kids",NickSpongeBob HD
-#EXTGRP:Kids
-http://abcnew.site:8880/D12m2185/99818221/28891#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4039.png" group-title="Kids",Nick Jr. HD
-#EXTGRP:Kids
-http://abcnew.site:8880/D12m2185/99818221/28890#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2078.png" group-title="Kids",CBBC HD
-#EXTGRP:Kids
-http://cord-cutter.net:8080/k4Svp2/645504/53720#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2088.png" group-title="Kids",Cbeebies HD
-#EXTGRP:Kids
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1147.png" group-title="Kids",Sly Kids HD
-#EXTGRP:Kids
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/302301#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1371.png" group-title="Kids",Cartoonito HD
-#EXTGRP:Kids
-http://abcnew.site:8880/D12m2185/99818221/2937#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4340.png" group-title="Kids",Nick Jr Paw Patrol HD
-#EXTGRP:Kids
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/4759#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3750.png" group-title="Kids",POP HD
-#EXTGRP:Kids
-http://abcnew.site:8880/D12m2185/99818221/28882#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4262.png" group-title="Kids",POP MAX HD
-#EXTGRP:Kids
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1598#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5c/Tiny_Pop_logo_2018.svg" group-title="Kids",Tiny Pop HD
-#EXTGRP:Kids
-http://agramat.ro:8080/TtGAq7gL40YLRy7nPGXv9csqaomOP/wXY22fZ6WCsE0FzB6DBTXaR6obz5JH/56676#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3645.png" group-title="Kids",Baby tv HD
-#EXTGRP:Kids
-http://abcnew.site:8880/D12m2185/99818221/2951#checkedby:iptvlister.com
-
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4031.png" group-title="TV Shows",Nat Geo HD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/3028
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4025.png" group-title="TV Shows",NatGeoWild HD
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/3029
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2409.png" group-title="TV Shows",Disc.Turbo
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/3024
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2407.png" group-title="TV Shows",Disc.History
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/3025
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2406.png" group-title="TV Shows",Disc.Science
+http://fortv.cc:8080/5ybSS2/616430/53695
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb6761.png" group-title="TV Shows",QUEST HD
+http://cord-cutter.net:8080/k4Svp2/645504/53682
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2325.png" group-title="TV Shows",Really
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/742
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2411.png" group-title="TV Shows",Quest Red
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/201131
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3618.png" group-title="TV Shows",DMAX
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/3023
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2301.png" group-title="TV Shows",HGTV
+http://45.177.53.7:8000/play/a0jm/index.m3u8
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3590.png" group-title="TV Shows",Food Network
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/3031
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3352.png" group-title="TV Shows",True Crime
+http://tv14s.xyz:8080/753468/894568/53752
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3617.png" group-title="TV Shows",True Crime X
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298676
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1831.png" group-title="TV Shows",Sky Mix HD
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1578
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2202.png" group-title="TV Shows",Challenge
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/3021
