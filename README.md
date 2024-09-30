@@ -10,8 +10,10 @@ Below are links and Important Information about this playlist. Please enjoy and 
 
 To add our IPTV Service to your player Point this link to your playlists tab (This may differ to what player you use) 
 
-Link 🔗 
+IPTV Playlist Link 🔗 
 https://bit.ly/gb-iptv
+
+IPTV EPG Link 🔗 
 
 Alternatively, You can download the M3U list from the files tab (This step is tricky and best for experienced people) If you dont know how to do it just stick to the first option
 
