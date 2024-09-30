@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="http://m3u4u.com/epg/p87vnr9d9dc4pp55y41j"
+Access-Control-Allow-Origin: *
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3000.png" group-title="TV Shows",BBC One Yks HD
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2075.png" group-title="TV Shows",BBC Two HD
